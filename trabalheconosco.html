@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="index.css">
+    <title>trabalheconosco</title>
+</head>
+<body>
+
+    <div class="bloco1-escrita">
+    <h1>Sua experiência ganhando<br>agilidade...<br>vem ser
+    </h1>
+    </div>
+    <div class="logo-Solution">
+        <img src="./Imagens/Logo.PNG"alt="logo">
+    </div>
+    <a href="index.html"button class="home">Home</button></a>
+
+ <div class="formulario-curriculo">
+     <h2 id="titulo">Cadastre seu Curriculo</h2>
+     <br>
+ </div>
+
+ <form>
+    
+    <div class="campo">
+        <label for="nome">Nome completo:</label>
+        <input type="nome" name="nome completo" id="nome completo" required>
+    </div>
+     <div class="campo">
+         <label for="email">E-mail:</label>
+         <input type="email" name="email" id="email" required>
+     </div>
+         <div class="campo">
+            <label>Atuação:</label>
+            <select id="Atuação">
+                <option selected disabled value="">Selecione</option>
+                <option>Dev front-end</option>
+                <option>Dev back-end</option>
+                <option>Assistente contabil</option>
+                <option>Analista contabil</option>
+                <option>Assistente fiscal</option>
+                <option>Analista fiscal</option>
+            </select>
+        </div>
+     <div>
+         <label>Senioridade:</label>
+         <select id="senioridade">
+             <option selected disabled value="">Selecione</option>
+             <option>Junior</option>
+             <option>Pleno</option>
+             <option>Senior</option>
+         </select>
+     </div>
+     <br>
+     <div>
+
+     <label>Enviar Curriculo:</label>
+      <br>
+     <form action="subir.php" method="post" enctype="multipart/form-data">
+
+        <input type="file" name="flArquivo">
+
+        <button class="botao" type="submit">Enviar</button>
+    </form>
+     </div>
+
+     </div>
+
+
+ </form>
+
+
+
+
+</div>
+
+</body>
+</html>
+

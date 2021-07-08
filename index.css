@@ -1,0 +1,171 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.page-container {
+    background-color: white;
+    display: flex;
+    justify-content: end;
+
+}
+
+.home {
+    background-color: #776067;
+    border-radius: 3em;
+    border: 3;
+    border: 5px solid #bd96a2;
+    color: white;
+    font-style: oblique;
+    justify-content: center;
+    padding: 0px 8px;
+    display: flex;
+    width: 150px;
+    height: 30px;
+}
+
+.imagem-centro img{
+    justify-content: center;
+    width: 100%;
+    height: 300px;
+}
+    footer {
+    background-color: #5d8aa8;
+    height: 50%;
+    display: flex;
+    flex-direction: column;
+    margin-top: 90px;
+    }
+
+.titulo-servicos{
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}    
+.escrita-meio {
+    margin-top: 100px;
+    font-size: 20px;
+    font-family: sans-serif;
+    margin-left: 1%;
+    justify-content: space-between;
+    justify-content: left;
+    border-radius: 5px;
+    color: #59429d;
+    
+}
+
+.trabalhe-conosco {
+background-color: #776067;
+border-radius: 3em;
+border: 3;
+border: 5px solid #bd96a2;
+color: white;
+font-style: oblique;
+justify-content: center;
+padding: 0px 8px;
+display: flex;
+width: 150px;
+
+}
+
+.escrita-rodape{
+    color: white;
+    justify-content: center;
+    padding: 0 10px;
+}
+.redes-sociais {
+    display: flex;
+    cursor: grab;
+    width: 5.5%;
+    height: 5.5%; 
+    
+}
+
+img{
+    height: 5%;
+    height: 5%;
+    padding: 8px;
+}
+
+.bloco1-escrita {
+    background-color: #5d8aa8;
+    height: 150px;
+    display: flex;
+    color: white;
+    justify-content: center;
+}
+
+.logo-Solution {
+    margin-top: 10px;
+    width: 200px;
+    height: 200px;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto; 
+}
+
+
+#titulo {
+    font-family: sans-serif;
+    color: #380b61;
+    margin-left: 10%;
+}
+
+
+input, select, button {
+    border-radius: 5px;
+}
+
+.campo label {
+    margin-bottom: 0.2em;
+    color: #380b61;
+    display: block;
+}
+
+.campo {
+    float: left;
+    margin-right: 1em;
+    margin-bottom: 1em;
+}
+
+.campo input[type="text"], .campo input[type="email"], .campo select, .campo textarea {
+    padding: 0.2em;
+    border: 1px solid #59429d;
+    box-shadow: 2px 2px 2px rgba(0,0,0.2);
+    display: block;
+}
+
+.campo selection option {
+    padding-right: 1em;
+}
+
+.campo input:focus, .campo select:focus, .campo textarea:focus {
+    background: #e0e0f8;
+}
+
+.botao {
+    font-size: 1.2em;
+    background: #59429d;
+    border: 0;
+    margin-bottom: 1em;
+    color: white;
+    padding: 0.2em 0.6em;
+    box-shadow: 2px 2px 2px rgba(0,0,0.2);
+    text-shadow: 1px 1px 1px rgba(0,0,0.5);
+    position: absolute;
+    top: 90%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+}
+
+.botao:haver {
+    background: #ccbbff;
+    box-shadow: inset 2px 2px 2px rgba(0,0,00.2);
+    text-shadow: none;
+}
+
+    
