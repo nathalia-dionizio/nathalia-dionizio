@@ -1,8 +1,8 @@
 ## Olá sou Nathalia Dionizio!
 
-##Trabalho atualmente: Analista QA testes automatizados
+## Trabalho atualmente: Analista QA testes automatizados
 
-##Estudo: Front end web
+## Estudo: Front end web
 
 <div align="center">
   <a href="https://github.com/nathalia-dionizio">
