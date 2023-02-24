@@ -2,7 +2,6 @@
 
 <p> Trabalho atualmente: Analista QA testes automatizados </P>
 
-<p> Estudo: Front end web </p>
 
 <div>
   <a href="https://github.com/nathalia-dionizio">
