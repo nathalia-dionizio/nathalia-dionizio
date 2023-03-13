@@ -1,6 +1,6 @@
 ## Olá sou Nathalia Dionizio!
 
-<p> Trabalho atualmente: Analista QA testes automatizados </P>
+<p> Analista QA testes manuais e automatizados </P>
 
 
 <div>
