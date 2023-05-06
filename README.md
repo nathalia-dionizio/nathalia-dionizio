@@ -1,6 +1,6 @@
-## Olá sou Nathalia Dionizio!
+## Hello QA!
 
-<p> Analista QA testes manuais e automatizados </P>
+<p> Analista QA </P>
 
 
 <div>
