@@ -13,6 +13,7 @@
   <img align="center" alt="nath-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="nath-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="nath-robotframework" height="30" width="30" src="https://cdn.icon-icons.com/icons2/2148/PNG/512/robotframework_icon_132027.png">
+  <img align="center" alt="nath-cypress" height="30" width="30" src="http://www.w3.org/2000/svg">
   <img align="center" alt="nath-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="nath-storybook" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original-wordmark.svg">
 </div>
