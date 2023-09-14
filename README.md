@@ -7,7 +7,7 @@
   
 <div>
   Algumas linguagens e ferramentas que tenho conhecimento e utilizo no dia a dia:
-  Cypress, SQL, JavaScript.
+  Robot Framework, Cypress, SQL, JavaScript.
 <div>
 
 
