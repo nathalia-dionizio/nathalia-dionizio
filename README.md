@@ -6,8 +6,8 @@
   <a href="https://www.linkedin.com/in/nathaliadionizio" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
 <div>
-  Algumas linguagens e ferramentas que tenho conhecimento e utilizo no dia a dia:
-  Robot Framework, Cypress, SQL, JavaScript.
+  Linguagens e ferramentas:
+  Robot Framework, Cypress, SQL, JavaScript, Python.
 <div>
 
 
